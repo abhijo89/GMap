@@ -1,4 +1,5 @@
 HOW TO USE:
+first add the GMap.php file to your "application/libraries" folder in CodeIgniter
 // Controller
   $this->load->library('GMap');
   $location = '1.234, 1.234';
